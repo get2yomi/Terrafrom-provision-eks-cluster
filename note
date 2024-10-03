@@ -1,0 +1,7 @@
+this code is to use eks with kubernetes and using module from hashicorp for vpc and other
+required configuration.
+ git push -u origin main
+ git remote add origin https://github.com/get2yomi/Terrafrom-provision-eks-cluster.git
+ git branch -M main
+ git push -u origin main
+ 
